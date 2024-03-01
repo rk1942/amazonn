@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Poppins:ital,wght@1,200&family=Rubik+Iso&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    background-color: rgb(36, 48, 64);
+    margin: 0;
+    padding: 0;
+}
+
+#Back {
+    padding-top: 115px;
+   
+}
+
+
+
+#cr {
+    color: aliceblue;
+    position: absolute;
+    top: 35px;
+    right: 20px;
+}
+
+
+
+#HSI {
+    color: aliceblue;
+    position: absolute;
+    top: 20px;
+    right: 275px;
+}
+
+
+#hello {
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 200px;
+}
+
+#address {
+    color: aliceblue;
+    position: absolute;
+    top: 40px;
+    left: 200px;
+}
+
+
+#logo {
+    position: absolute;
+    top: 19px;
+    left: 0px;
+}
+
+#top {
+    font-size: 15px;
+    background-color: rgb(36, 48, 64);
+    color: aliceblue;
+    position: absolute;
+    top: 75px;
+    left: 35px;
+    border-spacing: 60px;
+}
+
+#tab {
+    border-spacing: 15px;
+}
+
+
+
+
+
+
+#hd {
+    position: absolute;
+    bottom: 220px;
+    left: 30px;
+    font-size: 15px;
+    background-color: aliceblue;
+    color: black;
+}
+
+#tv {
+    position: absolute;
+    bottom: 80px;
+    left: 30px;
+}
+
+#s {
+    position: absolute;
+    bottom: 50px;
+    left: 30px;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+#fridge {
+    position: absolute;
+    bottom: 80px;
+    left: 230px;
+}
+
+#ap {
+    position: absolute;
+    bottom: 50px;
+    left: 230px;
+    color: aliceblue;
+}
+
+#fur {
+    position: absolute;
+    bottom: px;
+    left: 30px;
+}
+
+#f {
+    position: absolute;
+    top: 260px;
+    left: 30px;
+    color: aliceblue;
+}
+
+#kitch {
+    position: absolute;
+    top: px;
+    left: 230px;
+    
+}
+
+#kk {
+    position: absolute;
+    top: 260px;
+    left: 230px;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 768px){
+     body {
+      height: auto;
+      flex-direction: column;
+      align-items: center;
+    }
+}
